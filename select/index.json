@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Automatic",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-06T15:05:25.649740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Automatic",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/01_Automatic_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Automatic",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/02_Automatic_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Automatic",
+      "artist": "Nicki Minaj feat. Teairra Marí",
+      "has_synced": false,
+      "path": "select/03_Automatic_Nicki_Minaj_feat._Teairra_Marí.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Automatic Systematic Habit",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/04_Automatic_Systematic_Habit_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Automatic",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/05_It's_Automatic_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Automatic - Paper Faces Remix",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/06_It's_Automatic_-_Paper_Faces_Remix_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Automatic (Paper Faces Mix)",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/07_It's_Automatic_(Paper_Faces_Mix)_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Automatic",
+      "artist": "The Go-Go's",
+      "has_synced": true,
+      "path": "select/08_Automatic_The_Go-Go's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Automatic Rainy Day",
+      "artist": "The Go-Go's",
+      "has_synced": false,
+      "path": "select/09_Automatic_Rainy_Day_The_Go-Go's.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Evil (Tony Senghore's automatic vocal remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/10_Evil_(Tony_Senghore's_automatic_vocal_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Automatic",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/11_Automatic_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Automatic",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/12_Automatic_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_Automatic_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Automatic",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_10_Automatic_宇多田_ヒカル.txt"
+    }
+  ]
+}
